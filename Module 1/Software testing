@@ -1,0 +1,11 @@
+1) What is software testing ?
+- Testing is a process used to identify correctness, completeness, and quality of developed computer software.
+
+- Also testing is a proces to identify error and bugs in devloped software.
+
+2) What is SDLC ?
+- SDLC means "software development lifecycle".
+- In SDLC there is 2 main testing.
+      1)Static testing : It can test and find the defects without executing code.
+      2)Dynamic testing : It can test and find defects with executing code.
+3) 
