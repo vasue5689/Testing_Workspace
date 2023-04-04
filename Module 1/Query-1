@@ -5,13 +5,13 @@ Ans- 1) SELECT * FROM `info` ORDER by F_name ASC
 Ans- 2) SELECT * FROM `info` ORDER by salary desc
 
 3. Display Firstname Whose Firstname Starts with J.
-Ans- 
+Ans- 3) SELECT * FROM `info` WHERE F_name like 'J';
 
 4. Display All Employee Whose Designation is CLERK
 Ans- 4) SELECT * FROM `info` WHERE desig='cleark'
 
 5. Remove Records which is belong from HR ANALYST category
-Ans-
+Ans- 5) DELETE FROM `info` WHERE desig='hr analyst'
 
 6. Display User Detail Whose Department No. is 40
 Ans- 6) SELECT * FROM `info` WHERE deptno='40'
