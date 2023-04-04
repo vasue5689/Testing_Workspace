@@ -1,0 +1,17 @@
+1.Select Total number of records
+Ans- 1) SELECT COUNT(address_id) FROM address
+
+2.Select Street address of NY
+Ans- 2) SELECT * FROM address WHERE state='NY'
+
+3.Insert New Record
+Ans- 3) INSERT into address (street,city,state,zip_code) VALUES('102 james st.','west northport','NY','10403')
+
+4.Arrange Zipcode in Ascending Numeric Format 
+Ans- 4) SELECT * FROM address ORDER by zip_code ASC
+
+5.Select Data Row wise
+Ans- 
+
+6.Select Column Wise
+Ans-
