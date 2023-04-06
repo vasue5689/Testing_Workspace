@@ -1,0 +1,123 @@
+* Modeles
+
+
+* SDLC PHASE
+1) requirment gethering
+2) analysis
+3) design
+4) implementation
+5) testing
+6) aintenance
+
+- There are five modeles 
+       1) Waterfall model
+       2) V-model
+       3) Iterative model
+       4) Bohem's spiral model
+       5) Agile model
+
+1) Waterfall model ( Classical software cycle)
+
+* When to use	
+  - it is a very well document.
+  - clear and fixed.
+  - product defination is stable.
+  - in waterfall model the project is short.
+  - no ambiguous requirements.
+
+* Pros
+  - simple and easy to understand.
+  - easy to manage due to rigidity.
+  - easy to arrange task.
+  - it is claer.
+  - result is well.
+  - project is smaller so easy to understand.
+
+* Cons 
+  - high amount of risk.
+  - it is difficult to measure.
+  - you can use one task in one time so it is complex.
+  - uncertainity
+  - poo
+  - in this model difficult to go forward.
+
+2) V-model 
+
+* When to use
+  - also know as verification and validation model.
+  - it is in V-shape.
+  - it is use for devlopment purpose too.
+  
+* Pros
+  - higher disciplined model and phases are completed one at time.
+  - simple and easy to use.
+  - it is based on smaller project.
+  - easy to manage due to rigidity.
+ 
+* Cons
+  - high risk and unsertainty.
+  - not a good model for complex project.
+  - poor for long and outgoing project.
+  - in this model difficult to go back.
+
+3) Iterative model
+
+* When to use
+  - clear and understood.
+  - major requirement must be define.
+  - high risk futures and goals which may change in the future.
+
+* Pros
+  - it is quick and complate project in early time.
+  - result are periodically.
+  - also devloper can be use.
+  - less costly to change the scope.
+  - risk is identify.
+
+* Cons
+  - more resource required.
+  - more managment is required.
+  - not suitable for smaller project.
+  - highly skilled resource is required.
+  
+4) Bohem's spiral model  
+  
+* When to use
+  - risk evolution is important.
+  - for medium to high risk project.
+  - customer is not sure of their reqirement which are useally the case.
+  - significant change are expected.
+
+* Pros
+  - changing requirement can be accomodated.
+  - requirement can be captured more accuratly.
+  - user seethe system early.
+  
+* Cons
+  - managment is more complex.
+  - end of project is not early.
+  - process is complex.
+  - spiral may go indefinitely.
+  - not suitable for small project.
+
+5) Agile model
+
+* When to use
+  - it is a non stop model.
+  - the end of the project is not identify.
+  - popular model.
+  - iterative approch is taken.
+
+* Pros
+  - it is a very realistic approch to software devlopment.
+  - promote team work and cross work.
+  - easy to manage.
+  - gives flexibility to devlopers.
+  - minimum rules.
+  - no planning reqired 
+
+* Cons 
+  - not suitable for handling complex dependencies.
+  - more risk of sustainability,maintabillty and exrensibility.
+  - is customer not cleared for his requirement than project is run in wrong way.
+       r model for long and outgoing project.
