@@ -1,0 +1,131 @@
+1) What is software testing ?
+- Testing is a process used to identify correctness, completeness, and quality of developed computer software.
+
+- Also testing is a proces to identify error and bugs in devloped software.
+
+2) What is SDLC ?
+- SDLC means "software development lifecycle".
+- In SDLC there is 2 main testing.
+      1)Static testing : It can test and find the defects without executing code.
+      2)Dynamic testing : It can test and find defects with executing code.
+
+3) SDLC Phases / stages
+- there is six stages : 
+    1) Requirment gathering : It is a functional or non-functional.
+    2) Analysis : "what" , "how"
+    3) design : In design there is devloper select the design of software.
+    4) Implementation : 
+    5) Testing : Testing is a process where we define error or mistake and fixed it.
+    6) maintenance : In maintenance there are three type:
+            1) Corrective : 
+            2) Adaptive : send program to a NEW PLATFORM.
+            3) Perfective : you can add new requirements or function.
+
+4) what is agile methodology?
+  - it is a non stop model.
+  - the end of the project is not identify.
+  - popular model.
+  - iterative approch is taken.
+
+* Pros
+  - it is a very realistic approch to software devlopment.
+  - promote team work and cross work.
+  - easy to manage.
+  - gives flexibility to devlopers.
+  - minimum rules.
+  - no planning reqired 
+
+* Cons 
+  - not suitable for handling complex dependencies.
+  - more risk of sustainability,maintabillty and exrensibility.
+  - is customer not cleared for his requirement than project is run in wrong way.
+  - poor model for long and outgoing project.
+
+5) what is SRS?
+  - SRS stands for software requirement specification.
+  - It includes a set of use case that describe all of the interaction that the user wil
+    have with software.
+  - it's dependent on behaviour of system to be devloped.
+  - it's also contain non-functional  requirement.
+  - there are 3 type of SRS
+          1) customer requirement
+          2) functional requirement
+          3) non- functional requirement 
+
+6) what is oops?
+  - oop means object oriented programming.
+  - programming is like writing, if you can write a demonstration you can make a program.
+  - oop is based on object oriented language.
+  - inshort oop include object.
+
+7) write basic concepts of oops?
+  - oop means object oriented programming.
+  - programming is like writing, if you can write a demonstration you can make a program.
+  - oop is based on object oriented language.
+  - inshort oop include object.
+
+8) what is object?
+  - object is a any things what you have like a car,phone,paper etc...
+  - object is a basic unit of oop
+
+9) what is class?
+  - class means a group of object.
+  - like a there is a one phone so it's a object but when i say there is ten phone here so it's a class of phone.
+  - class is depend on object.
+
+10) what is encapsulation?
+  - Encapsulation is the practice of including in an object everything it needs hidden from other objects. The internal state is usually 
+    not accessible by other objects.  
+  - encapsulation in java is the process of wrapping up of data. 
+  - encapsulation is placing the data and the functions that work on that data in the same place.
+
+11) what is polymorphism?
+  - polymorphism means " having many forms".
+  - it allows diffrent object to respond to the same message in diffrent ways.
+  - the response specific to the type of the object.
+  - the abilty to change from is known as polymorphism.
+  - there is 2 type of polymorphism in java
+          1) compile time polymorphism (overloading)
+          2) runtime polymorphism (overriding)
+
+12)explain phases of waterfall model.
+  - it is a very well document.
+  - clear and fixed.
+  - product defination is stable.
+  - in waterfall model the project is short.
+  - no ambiguous requirements.
+
+* Pros
+  - simple and easy to understand.
+  - easy to manage due to rigidity.
+  - easy to arrange task.
+  - it is claer.
+  - result is well.
+  - project is smaller so easy to understand.
+
+* Cons 
+  - high amount of risk.
+  - it is difficult to measure.
+  - you can use one task in one time so it is complex.
+  - uncertainity
+  - poo
+  - in this model difficult to go forward.
+
+13) write phases of spiral model.
+  - risk evolution is important.
+  - for medium to high risk project.
+  - customer is not sure of their reqirement which are useally the case.
+  - significant change are expected.
+
+* Pros
+  - changing requirement can be accomodated.
+  - requirement can be captured more accuratly.
+  - user seethe system early.
+  
+* Cons
+  - managment is more complex.
+  - end of project is not early.
+  - process is complex.
+  - spiral may go indefinitely.
+  - not suitable for small project.
+
